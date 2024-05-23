@@ -1,0 +1,25 @@
+{
+  "name": "json-server-volonterplus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petraroso/json-server-VolonterPlus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petraroso/json-server-VolonterPlus/issues"
+  },
+  "homepage": "https://github.com/petraroso/json-server-VolonterPlus#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.1"
+  }
+}
